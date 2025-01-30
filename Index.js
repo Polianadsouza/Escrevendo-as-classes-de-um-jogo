@@ -1,13 +1,11 @@
 class Heroi {
     constructor(nome, idade, tipo) {
-        // Inicializa o herói com as propriedades nome, idade e tipo
         this.nome = nome;
         this.idade = idade;
         this.tipo = tipo;
     }
 
     atacar() {
-        // Define o tipo de ataque com base no tipo de herói
         let ataque;
 
         switch (this.tipo) {
