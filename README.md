@@ -1,6 +1,6 @@
-# Escrevendo-as-classes-de-um-jogo
+# Escrevendo as classes de um jogo
 
-Desafio de Projeto Dio
+Desafio de Projeto DIO
 
 **O Que deve ser utilizado**
 
